@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GuiMeiStore"
+  id="myeclipse.1450404141546"
+  context-root="/GuiMeiStore"
+  j2ee-spec="5.0"
+  archive="GuiMeiStore.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
